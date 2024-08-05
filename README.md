@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nunesjaqueline
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning CSS and Javascript 
+- 🌱 I’m always learning 
 - 💞️ I’m looking to collaborate on Websites 
 - 📫 How to reach me... 
 
