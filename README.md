@@ -2,7 +2,6 @@
 - 👀 I’m interested in Frontend
 - 🌱 I’m always learning 
 - 💞️ I’m looking to collaborate on Websites 
-- 📫 How to reach me... 
 
 <!---
 nunesjaqueline/nunesjaqueline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
