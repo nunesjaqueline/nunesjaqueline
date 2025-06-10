@@ -1,4 +1,4 @@
-##Hi there! I'm Jaqueline Nunes 👋
+--Hi there! I'm Jaqueline Nunes 👋
 I'm a passionate web developer and a dedicated learner on my journey to becoming a full-stack developer. I'm especially enthusiastic about UX/UI design and building accessible web experiences that truly work for everyone. My current toolkit includes JavaScript, HTML, and CSS, and I'm always eager to dive into new challenges.
 
 #What I'm Up To
