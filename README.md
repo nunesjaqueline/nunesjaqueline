@@ -8,6 +8,7 @@ My learning journey is a continuous one! Right now, I'm diving deeper into advan
 ## My Goals :dart:
 My ultimate aim is to become a senior software engineer, where I can continue to build impactful and user-friendly applications. I'm also passionate about leveraging technology for good and aspire to work with "tech for good" companies that are making a positive difference in the world.
 
+##
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nunesjaqueline&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
