@@ -1,5 +1,5 @@
 # Hi there! 👋
-I'm Jaqueline Nunes :brazil:, a passionate web developer and a dedicated learner on my journey to becoming a full-stack developer. I'm especially enthusiastic about UX/UI design and building accessible web experiences that truly work for everyone. My current toolkit includes JavaScript, HTML, and CSS, and I'm always eager to dive into new challenges.
+I'm Jaqueline Nunes, a passionate :brazil: web developer and a dedicated learner on my journey to becoming a full-stack developer. I'm especially enthusiastic about UX/UI design and building accessible web experiences that truly work for everyone. My current toolkit includes JavaScript, HTML, and CSS, and I'm always eager to dive into new challenges.
 
 ## What I'm Up To 💻
 I'm currently focused on building scalable web applications and exploring the exciting world of e-learning projects. I'm also keen on contributing to open source and being part of the wider developer community.
